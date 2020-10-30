@@ -1,0 +1,16 @@
+h1{
+    color:#ff0000;
+    font-size:60px;
+    font-weight:normal;
+    font-family: "Impact";
+    text-align:center;
+    background-color:black;
+}
+p{
+    background-color: aqua;
+}
+body{
+    background-image: url(../images/gintama01.jpg);
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+}
