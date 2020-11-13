@@ -1,6 +1,6 @@
 h1{
     text-align:center;
-    background-color:red;
+    background-color:cornflowerblue;
     color:aliceblue;   
 }
 body{
@@ -17,4 +17,10 @@ h3{
 }
 p{
     color:darkred;
+}
+table{
+    background-color:darkturquoise;
+}
+ol{
+    background-image:url(../images/haikei03.png);
 }
