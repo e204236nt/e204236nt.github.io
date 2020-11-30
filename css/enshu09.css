@@ -1,0 +1,21 @@
+/*pタグの中でもbluecolrクラスのものだけ装飾*/
+.bluecolor{
+    color:blue;
+}
+
+/*h1タグの中でもtakashiというidのやつだけを装飾*/
+h1#takashi{
+    font-family: impact;
+    font-size: 60px;
+}
+
+h2{
+    color:red !important;
+}
+h2{
+    color:green;
+}
+
+h2:hover{
+    background-color: beige;
+}

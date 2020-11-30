@@ -1,0 +1,22 @@
+body{
+    background-image: url(../images/haikei03.jpg)
+}
+h1{
+    background-color: black;
+    color:aliceblue;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h2.bf5{
+    background-color: crimson;
+    color:darkgrey;
+}
+h2.Minecraft{
+    background-color: chartreuse;
+    color:brown;
+}
+p{
+    
+}
