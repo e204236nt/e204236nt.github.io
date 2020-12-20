@@ -1,0 +1,83 @@
+div.title{
+    width:1000px;
+    height:40px;
+    background-color: darkgray;
+    margin-bottom: 20px;
+}
+
+div.tyuuou{
+    width:1000px;
+    height:320px;
+    background-color: azure;
+    font-size: 0;
+    
+}
+
+div.menu{
+    width:250px;
+    height: 320px;
+    display: inline-block;
+    vertical-align:top;
+    background-color:darkgray;
+}
+    div.menu1{
+    vertical-align:top;
+    width:250px;
+    height: 100px;
+    text-align:left;
+    background-color:crimson;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+div.menu2{
+    vertical-align:top;
+    width:250px;
+    height: 100px;
+    text-align: left;
+    background-color:crimson;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+div.menu3{
+    vertical-align:top;
+    width:250px;
+    height: 100px;
+    text-align: left;
+    background-color:crimson;
+    font-size: 15px;
+}
+
+div.migi{
+    width:700px;
+    height:320px;
+    display: inline-block;
+    vertical-align:top;
+    background-color:darkgray;
+    margin-left: 50px;
+    
+}
+
+div.image{
+    width:700px;
+    height:300px;
+    vertical-align:top;
+    background-color:black;
+}
+
+div.bunsyou{
+    width:700px;
+    height:20px;
+    background-color: blue;
+    vertical-align:top;
+    font-size: 15px;
+}
+
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color: coral;
+    text-align:right;
+    margin-top: 20px;
+}
