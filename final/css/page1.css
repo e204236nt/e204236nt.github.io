@@ -1,0 +1,151 @@
+div.title{
+    width:1000px;
+    height:40px;
+    background-color: darkgray;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+   
+div.madori{
+    width:1000px;
+    height:350px;
+    display: inline-block;
+    vertical-align:top;
+    background-color:darkgray;
+}
+
+div.image{
+    width:1000px;
+    height:300px;
+    vertical-align:top;
+    background-position: center;
+}
+
+div.bunsyou{
+    width:1000px;
+    height:50px;
+    background-color: blue;
+    vertical-align:top;
+    font-size: 15px;
+}
+
+
+div.madori2{
+    width:1000px;
+    height:300px;
+    display: inline-block;
+    vertical-align:top;
+    background-color:darkgray;
+    margin-top: 20px;
+}
+
+div.hidari{
+    width:750px;
+    height: 300px;
+    display: inline-block;
+    vertical-align:top;
+    background-color:darkgray;
+    font-size: 0;
+}
+
+div.title1{
+    width: 750px;
+    height: 50px;
+    background-color:aqua;
+    font-size: 30px;
+    text-align: center;
+}
+span.bunsyou1{
+    display:inline-block;
+    width: 370px;
+    height: 50px;
+    background-color: white;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 5px;
+    text-align: center;
+}
+div.bunsyou2{
+    display:inline-block;
+    width: 370px;
+    height: 50px;
+    background-color: white;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 5px;
+    text-align: center;
+}
+span.bunsyou3{
+    display:inline-block;
+    width: 370px;
+    height: 50px;
+    background-color: white;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 5px;
+    text-align: center;
+}
+div.bunsyou4{
+    display:inline-block;
+    width: 370px;
+    height: 50px;
+    background-color: white;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 5px;
+    text-align: center;
+}
+span.bunsyou5{
+    display:inline-block;
+    width: 370px;
+    height: 50px;
+    background-color: white;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 5px;
+    text-align: center;
+}
+div.bunsyou6{
+    display:inline-block;
+    width: 370px;
+    height: 50px;
+    background-color: white;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 5px;
+    text-align: center;
+}
+
+div.migi{
+    width:200px;
+    height:300px;
+    display: inline-block;
+    vertical-align:top;
+    background-color:darkgray;
+    font-size: 0;
+}
+span.image1{
+    display:inline-block;
+    margin-left: 20px;
+    
+}
+div.bunsyou7{
+    width: 200px;
+    height: 30px;
+    font-size: 5px; 
+}
+
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color: coral;
+    text-align:right;
+    margin-top: 20px;
+}
+
+div.wrap{
+    width:1000px;
+    margin:0px auto;
+}
+

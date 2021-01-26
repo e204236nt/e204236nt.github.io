@@ -1,0 +1,135 @@
+div.title{
+    width:1000px;
+    height:40px;
+    background-color:black;
+    color: white;
+    margin-bottom: 20px;
+    text-align: center;
+}
+   
+div.madori{
+    width:1000px;
+    height:400px;
+    display: inline-block;
+    vertical-align:top;
+}
+
+div.image{
+    vertical-align:top;
+    background-position: center;
+}
+
+div.bunsyou{
+    background-color:black;
+    color: white;
+    width:1000px;
+    height:50px;
+    vertical-align:top;
+    font-size: 15px;
+}
+
+
+div.madori2{
+    width:1000px;
+    height:875px;
+    display: inline-block;
+    vertical-align:top;
+    margin-top: 20px;
+}
+
+
+div.hidari{
+    width:495px;
+    height: 885px;
+    background-color:black;
+    color: white;
+    display: inline-block;
+    vertical-align:top;
+    font-size: 0;
+}
+div.title1{
+    text-align: center;
+    font-size: 25px;
+}
+span.image1{
+    display:inline-block;
+    margin-left: 10px;
+}
+div.bunsyou1{
+    width:480px;
+    height:160px;
+    vertical-align:top;
+    font-size: 15px;
+}
+
+div.title2{
+    text-align: center;
+    font-size: 25px;
+}
+span.image2{
+    display:inline-block;
+    margin-left: 10px;
+}
+div.bunsyou2{
+    width:480px;
+    height:135px;
+    vertical-align:top;
+    font-size: 15px;
+}
+
+div.migi{
+    width:499px;
+    height:885px;
+    display: inline-block;
+    background-color:black;
+    color: white;
+    vertical-align:top;
+    font-size: 0;
+}
+
+div.title3{
+    text-align: center;
+    font-size: 25px;
+    width: 480px;
+}
+span.image3{
+    display:inline-block;
+    margin-left: 10px;
+}
+div.bunsyou3{
+    width:480px;
+    height:160px;
+    vertical-align:top;
+    font-size: 15px;
+}
+
+div.title4{
+    text-align: center;
+    font-size: 25px;
+    width: 480px;
+}
+span.image4{
+    display:inline-block;
+    margin-left: 10px;
+}
+div.bunsyou4{
+    width:480px;
+    height:135px;
+    vertical-align:top;
+    font-size: 15px;
+}
+
+
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color: coral;
+    text-align:right;
+    margin-top: 20px;
+}
+
+div.wrap{
+    width:1000px;
+    margin:0px auto;
+}
+
