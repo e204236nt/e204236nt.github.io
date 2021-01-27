@@ -31,19 +31,20 @@ div.bunsyou{
 
 div.madori2{
     width:1000px;
-    height:730px;
+    height:750px;
     display: inline-block;
     vertical-align:top;
-    background-color:darkgray;
+    background-color: black;
 }
 
 div.hidari{
-    width:495px;
-    height: 730px;
+    width:490px;
+    height: 745px;
     display: inline-block;
     vertical-align:top;
-    background-color:darkgray;
     font-size: 0;
+    background-color: white;
+    margin-left: 5px;
 }
 span.image1{
     display:inline-block;
@@ -62,6 +63,7 @@ div.bunsyou1{
 span.image2{
     display:inline-block;
     margin-left: 20px;
+    margin-top: 10px;
 }
 div.bunsyou2{
     width:460px;
@@ -73,11 +75,11 @@ div.bunsyou2{
 
 div.migi{
     width:495px;
-    height:730px;
+    height:745px;
     display: inline-block;
     vertical-align:top;
-    background-color:darkgray;
     font-size: 0;
+    background-color: white;
 }
 span.image3{
     display:inline-block;
